@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\CAM better\CAM better\bin\Debug\CAM better.exe.config
+c:\users\user\documents\visual studio 2015\Projects\CAM better\CAM better\bin\Debug\CAM better.exe
+c:\users\user\documents\visual studio 2015\Projects\CAM better\CAM better\bin\Debug\CAM better.pdb
+c:\users\user\documents\visual studio 2015\Projects\CAM better\CAM better\obj\Debug\CAM better.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\CAM better\CAM better\obj\Debug\CAM_better.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\CAM better\CAM better\obj\Debug\CAM_better.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\CAM better\CAM better\obj\Debug\CAM better.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\CAM better\CAM better\obj\Debug\CAM better.exe
+c:\users\user\documents\visual studio 2015\Projects\CAM better\CAM better\obj\Debug\CAM better.pdb
+C:\Users\User\documents\visual studio 2015\Projects\CAM better\CAM better\bin\Debug\camDB.mdf
+C:\Users\User\documents\visual studio 2015\Projects\CAM better\CAM better\bin\Debug\camDB_log.ldf
+C:\Users\User\documents\visual studio 2015\Projects\CAM better\CAM better\bin\Debug\HtmlAgilityPack.dll
+C:\Users\User\documents\visual studio 2015\Projects\CAM better\CAM better\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\User\documents\visual studio 2015\Projects\CAM better\CAM better\bin\Debug\HtmlAgilityPack.xml
